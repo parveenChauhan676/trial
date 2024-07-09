@@ -3,3 +3,9 @@
 test.class
 test$.class
 test$delayedInit$body.class
+Person.class
+todays.class
+todays$.class
+todays$delayedInit$body.class
+
+
